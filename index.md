@@ -1,4 +1,10 @@
-## Welcome to GitHub Pages
+## 採購項目資料
+
+You can use the [Excel](https://docs.google.com/spreadsheets/d/1E34ECh1KXg5WOiDx4s9UInuJQ5PffTOLv9aQsS8qMUU/edit#gid=0) to maintain and preview the content for the documents.
+
+Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
+### Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/syyanghongyip3/qrcode/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
